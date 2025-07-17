@@ -32,3 +32,7 @@ Technologies Used:
 -->Scikit-learn (TF-IDF and cosine similarity)
 -->NumPy
 
+*OUTPUT*
+
+<img width="961" height="724" alt="Image" src="https://github.com/user-attachments/assets/d49345f8-d2b8-41b9-8a9e-5f5f05b7a304" />
+
